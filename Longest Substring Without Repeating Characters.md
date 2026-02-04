@@ -26,6 +26,8 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 s consists of English letters, digits, symbols and spaces.
 ```
 
+**Solution**
+
 ```swift
 class Solution {
     func lengthOfLongestSubstring(_ s: String) -> Int {
