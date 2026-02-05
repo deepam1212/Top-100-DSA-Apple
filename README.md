@@ -48,29 +48,11 @@ Each problem is chosen because it teaches a **reusable interview pattern**.
 
 ---
 
-## 🏗️ Repository Structure
-
-```text
-Top-100-DSA/
-│
-├── 01. Arrays/
-│   ├── 1. Two Sum.md
-│   ├── 2. Best Time to Buy and Sell Stock.md
-│   └── ...
-│
-├── 02. Strings/
-├── 03. Hashing/
-├── 04. Two Pointers/
-├── ...
-│
-└── README.md
-```
-
 Each problem file contains:
 
 * 🔹 Problem statement
+* 🔹 COnstraints
 * 🔹 Approach & intuition
-* 🔹 Time & space complexity
 * 🔹 Clean solution code
 
 ---
